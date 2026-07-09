@@ -12,7 +12,7 @@
 - Linux
 - Algorithms and Data Structures
 
-🧩 Rubik's Cube enthusiast and club organizer (WCAid: 2015ZHAN72)
+🧩 Rubik's Cube enthusiast and club organizer
 
 🐧 RHCSA Certified
 
@@ -23,7 +23,7 @@
 ## Current Projects
 
 - 📚 learning-git
-- 🌐 seto-portfolio (coming soon)
+- 🌐 seto-portfolio
 - 🧩 CubeTimer (planned)
 
 ## Connect with me
